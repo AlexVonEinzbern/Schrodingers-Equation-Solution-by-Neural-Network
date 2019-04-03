@@ -5,3 +5,4 @@ Artifitial Neural Networks for Solving Ordinary and Partial Differential Equatio
 **References**
 
 [Alex Gonchar](https://github.com/Rachnog/Neural-Networks-for-Differential-Equations)
+[Artificial Neural Networks for Solving Ordinary and Partial Differential Equations](https://arxiv.org/pdf/physics/9705023.pdf)
